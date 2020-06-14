@@ -1,0 +1,10 @@
+Back test and analyse the Indian shares for more than 20 years.  It can be used as a portfolio analysis investment tool.
+
+Some of its features are:
+1. Winning percentage and maximum return of a stock.
+2. Rate of return of all shares between the selected dates.
+3. Historical prices on all dates between the selected dates.
+4.  Fetched and analysed data can be saved in .csv format for further analysis.
+5. Interactive graphs for the analysed data.
+6. More options can be enabled as per user’s choice.
+For more details, please visit the project page: https://www.investock.in/
